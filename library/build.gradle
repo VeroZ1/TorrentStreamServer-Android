@@ -46,5 +46,5 @@ ext {
 
 dependencies {
     api fileTree(dir: 'libs', include: ['*.jar'])
-    api "com.github.VeroZ1:TorrentStream-Android:${torrentStreamVersion}"
+    api "com.github.4327b9fb:TorrentStream-Android:${torrentStreamVersion}"
 }
